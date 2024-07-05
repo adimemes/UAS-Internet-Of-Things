@@ -1,6 +1,6 @@
 Tugas Kelompok 3
 
-Alat Deteksi Kebanjiran
+Alat Deteksi Bencana Dini.
 
 Disini kami terdiri
 1. I Kadek Adi Memes Suabagia
