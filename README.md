@@ -1,6 +1,6 @@
-Tugas Kelompok 3
+# Tugas Kelompok 3
 
-Alat Deteksi Bencana Dini.
+## Alat Deteksi Bencana Dini mengunakan modul NRF24l01.
 
 Disini kami terdiri
 1. I Kadek Adi Memes Suabagia
